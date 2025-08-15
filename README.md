@@ -100,6 +100,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=005b99)](https://www.instagram.com/fecirineu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=005b99)](https://www.linkedin.com/in/fecirineu)
 
+"♫ Lord, Thank you for sunshine,Thank you for rain ,Thank you for joy ,Thank you for pain ,It’s a beautiful day.."
 </div>
 
 <br>
