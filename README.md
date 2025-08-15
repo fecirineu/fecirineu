@@ -1,16 +1,111 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:001f4d,100:005b99"/>
 
-<!--
-**fecirineu/fecirineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>`💻 Desenvolvedor`</b> <samp> <br>
+Olá! Eu sou <b>Felipe Cirineu</b> </samp>
+
+</div>
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffecirineu&s=21&c=005b99&bg=00000000&no=2&ff=digi&tb=Visitas+no+perfil%3A++&ta=" />
+  </p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" width="200">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/fecirineu-black" />
+</div>
+
+<br>
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Mais Informações</b>
+      </samp>
+  </summary>
+
+  <br>
+
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=fecirineu&show_icons=true&count_private=true&rank_icon=github&theme=blue_navy&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecirineu&layout=compact&font=Iosevka&langs_count=16&theme=blue_navy"
+  />
+  <br>
+  <br>
+  <img align="center" alt="Resumo Perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fecirineu&theme=nord_dark"/>
+
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=fecirineu&theme=blue_navy&card_width=885"
+  />
+  </div>
+
+<div align="center" style="display: inline_block"><br>
+
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contato:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=gmail\&logoColor=005b99)](mailto:fecirineu%40hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=005b99)](https://www.instagram.com/fecirineu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=005b99)](https://www.linkedin.com/in/fecirineu)
+
+</div>
+
+<br>
+
+</details>
+
+![Snake animation](https://github.com/fecirineu/fecirineu/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:001f4d,100:005b99&height=100&section=footer"/>
