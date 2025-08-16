@@ -19,7 +19,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 <div align="center">
-  <img src="https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" width="200">
+  <img src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif" width="200">
 </div>
 <br>
 <div align="center">
