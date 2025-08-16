@@ -19,7 +19,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 <div align="center">
-  <img src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif" width="200">
+  <img src="https://cdn.creazilla.com/icons/3208626/dev-to-icon-size_256.png" width="200">
 </div>
 <br>
 <div align="center">
