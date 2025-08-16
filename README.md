@@ -19,8 +19,8 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/458/458910.png" width="100">
-    <img src="https://img.shields.io/badge/fecirineu-black" />
+  <img src="https://cdn-icons-png.flaticon.com/512/458/458910.png" width="100"><p>    <img src="https://img.shields.io/badge/fecirineu-black" /></p>
+
 </div>
 <div align="center">
 
