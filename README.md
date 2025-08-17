@@ -1,22 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:001f4d,100:005b99"/>
-
-
 <div align="center">
-
 <b>`💻 Desenvolvedor`</b> <samp> <p>
 Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 
 </div>
-
 <div align="center">
   <p align="center">
     <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffecirineu&s=21&c=005b99&bg=00000000&no=2&ff=digi&tb=Visitas+no+perfil%3A++&ta=" />
   </p>
 </div>
-
 <br>
-
-
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/458/458910.png" width="100"><p>    <img src="https://img.shields.io/badge/fecirineu-black" /></p>
 
@@ -29,7 +22,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+de+Itapetinga+São+Paulo;Desenvolvedor+e+Analista;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 
@@ -105,7 +98,5 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 </details>
-
 ![Snake animation](https://github.com/fecirineu/fecirineu/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:001f4d,100:005b99&height=100&section=footer"/>
