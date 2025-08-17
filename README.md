@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:001f4d,100:005b99"/>
 
-<br>
 
 <div align="center">
 
-<b>`💻 Desenvolvedor`</b> <samp> <br>
+<b>`💻 Desenvolvedor`</b> <samp> <p>
 Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 
 </div>
