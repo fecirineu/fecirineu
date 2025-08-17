@@ -16,7 +16,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 </div>
 
 <br>
-<br>
+
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/458/458910.png" width="100"><p>    <img src="https://img.shields.io/badge/fecirineu-black" /></p>
@@ -26,14 +26,14 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 
 </div>
 
-<br>
+
 <br>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
-<br>
+
 <br>
 
 <details align="center">  
