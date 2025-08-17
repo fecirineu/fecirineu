@@ -100,5 +100,6 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 </details>
 
+![Snake animation](https://github.com/felps-br/felps-br/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:001f4d,100:005b99&height=100&section=footer"/>
-<p>![Snake animation](https://github.com/felps-br/felps-br/blob/output/github-contribution-grid-snake.svg)</p>
+
