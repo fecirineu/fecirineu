@@ -11,7 +11,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 </div>
 <br>
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/458/458910.png" width="100"><p>    <img src="https://img.shields.io/badge/fecirineu-black" /></p>
+  <img src="https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" width="200"></p>
 
 </div>
 <div align="center">
