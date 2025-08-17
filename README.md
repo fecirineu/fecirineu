@@ -12,7 +12,6 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 <div align="center">
   <img src="https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" width="200"></p>
-
 </div>
 <div align="center">
 
@@ -101,5 +100,6 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 </details>
 
 ![Snake animation](https://github.com/felps-br/felps-br/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:001f4d,100:005b99&height=100&section=footer"/>
 
