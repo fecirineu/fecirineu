@@ -22,7 +22,7 @@ Olá! Eu sou <b>Felipe Cirineu</b> </samp>
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+de+Itapetinga+São+Paulo;Desenvolvedor+e+Analista;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou%20de%20Itapetininga%20São%20Paulo;Desenvolvedor%20e%20Analista;Apaixonado%20por%20Tecnologia;Seja%20bem-vindo!" alt="Typing SVG"/>
 </div>
 
 
